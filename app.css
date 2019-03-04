@@ -1,0 +1,45 @@
+body{
+
+ background-image:url('https://i.imgur.com/RpwjQiR.jpg');
+ position:fixed;
+}
+
+h1{
+color: white;
+font-family:monospace;
+font-size:8em;
+text-shadow:4px 4px 5px gray;
+position: absolute;
+top:-20%;
+left:9%;
+}
+
+
+#author{
+  position:absolute;
+  color:white;
+  font-family:monospace;
+  font-size:5em;
+  top:200px;
+  left:90px;
+  text-shadow:4px 4px 5px green;
+}
+
+#image1{
+position:absolute;
+top:8px;
+left:585px;
+}
+
+
+
+#word{
+color:gray;
+font-family:monospace;
+font-size:1.7em;
+position:relative;
+top:385px;
+left:80px;
+}
+
+
